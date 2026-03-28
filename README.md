@@ -60,7 +60,7 @@ chmod +x script1_system_identity.sh
 chmod +x script2_package_inspector.sh
 chmod +x script3_disk_auditor.sh
 chmod +x script4_log_analyzer.sh
-chmod +x script5_manifesto.sh
+chmod +x script_5_manifesto.sh
 ```
 
 ### Step 3: Run the Scripts
